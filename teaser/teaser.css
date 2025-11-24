@@ -1,0 +1,30 @@
+img {
+  align-self: left;
+
+  max-width: fit-content;
+  border-radius: 50px;
+  box-shadow: 0 0 10px 0 rgb(63, 11, 70);
+}
+a :hover {
+  box-shadow: 0 0 40px 0 rgb(63, 11, 70);
+}
+div {
+  padding: 40px;
+}
+h1 {
+  font-size: 75px;
+}
+p {
+  font-size: 30px;
+  padding: 50px 0px;
+}
+h2 {
+  font-size: 40px;
+  text-align: bottom;
+}
+
+body {
+  display: flex;
+  margin: 60px;
+  background-color: rgb(176, 138, 211);
+}
